@@ -7,6 +7,7 @@ This project examines which variables can be used to predict the MPG of a fictio
  RStudio and R liberaries such as tidyverse and dplyr have been used to accomplish this analysis.
  
  ## Results
+ ### Linear Regression to Predict MPG
  After performing the multiple linear regression, the following results have been obtained which led to the bellow conclusions:
  
  
@@ -19,3 +20,14 @@ This project examines which variables can be used to predict the MPG of a fictio
 2. The ground clearance and vehicle length coefficients can be described to have statisticall significant effects (small p-value) on the mpg values (a non-random amount of variance).
 
 3. The high significance level of the intercept implies that that the significant features (The ground clearance and vehicle length) may need scaling or transforming to help improve the predictive power of the model.
+
+4.Linear models are effective at predicting the mpg of MechaCar prototypes, since the R-squared value is 0.7149 (71% effective)
+
+### Summary Statistics on Suspension Coils
+
+
+
+<img width="353" alt="Screen Shot 2022-10-12 at 11 56 14 PM" src="https://user-images.githubusercontent.com/108313440/195495844-926596c6-c6b0-4a2c-b04a-27ca1d6d4b64.png">
+
+<img width="498" alt="Screen Shot 2022-10-12 at 11 56 02 PM" src="https://user-images.githubusercontent.com/108313440/195495890-88b7cd93-6715-42e2-b19a-db6517489697.png">
+
