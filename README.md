@@ -36,5 +36,21 @@ Among the lots, Lot 1 and Lot 2 both meet specifications, with variances of 0.98
 
 ### T-Tests on Suspension Coils
 
+According to the bellow analysis, considering the p-value, it is not possible to reject the null hypothesis. According to statistics, there is no statistical difference between the mean of 1,500 pounds per square inch and the mean of the population.
+
+<img width="457" alt="Screen Shot 2022-10-13 at 12 15 51 AM" src="https://user-images.githubusercontent.com/108313440/195498981-856768d9-7415-4920-8eb1-2fa9078577bd.png">
+
+P-value 1 indicates that Manufacturing Lot 1's mean is the same as 1,500's population mean. In this case, we are unable to reject the null hypothesis, since there is no statistically significant difference from the population mean.
+
+<img width="520" alt="Screen Shot 2022-10-13 at 12 21 27 AM" src="https://user-images.githubusercontent.com/108313440/195500993-0731c457-4d0f-4b8f-95d1-c9f18ab9cbe8.png">
+
+P-value 0.6 indicate that we are unable to reject the null hypothesis, since there is no statistically significant difference from the population mean.
+
+<img width="514" alt="Screen Shot 2022-10-13 at 12 21 49 AM" src="https://user-images.githubusercontent.com/108313440/195501028-29f477a8-9e6b-4643-8fcc-e798534f69cb.png">
+
+P-value 0.04 indicate that we are able to reject the null hypothesis, since there is no statistically significant difference from the population mean.
+
+<img width="537" alt="Screen Shot 2022-10-13 at 12 22 05 AM" src="https://user-images.githubusercontent.com/108313440/195501063-370be022-3fb9-4d94-aac4-a94a03a66803.png">
+
 
 
