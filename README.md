@@ -52,5 +52,22 @@ P-value 0.04 indicate that we are able to reject the null hypothesis, since ther
 
 <img width="537" alt="Screen Shot 2022-10-13 at 12 22 05 AM" src="https://user-images.githubusercontent.com/108313440/195501063-370be022-3fb9-4d94-aac4-a94a03a66803.png">
 
+## Study Design: MechaCar vs Competition
+
+An analysis of metrics that maximize consumer utility can be performed to quantify how "MechaCar" might perform against the competition. This project examines the bellow metrics that may affect a vehicle's utility:
+
+* Purchase price
+* The "0 to 60 mph" time
+* Fuel efficiency (Highway and City)
+* The Safety rating
+* Horsepower
+* Storage Capacity
+
+For the proposed study, these are the null hypothesis and alternative hypothesis:
+Ho: MechaCar would have higher performance against competitors.
+Ha: MechaCar would not have higher performance against competitors.
+
+We initially perform Multiple Linear Regressions to detemine which of the metrics listed above have a significant impact on the vehicle 's utility. Then, we will performe ANOVA test to compare the perfomance of MechaCar with the competitors in terms of the key elemnts. Based on the outcomes, we can apply or reject designe modifications.
+
 
 
