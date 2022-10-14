@@ -65,9 +65,9 @@ An analysis of metrics that maximize consumer utility can be performed to quanti
 
 For the proposed study, these are the null hypothesis and alternative hypothesis:
 
-H0: MechaCar would have higher performance against competitors.
+H0: MechaCar would not have higher performance against competitors.
 
-Ha: MechaCar would not have higher performance against competitors.
+Ha: MechaCar would have higher performance against competitors.
 
 We initially perform Multiple Linear Regressions to detemine which of the metrics listed above have a significant impact on the vehicle 's utility. Then, we will performe ANOVA test to compare the perfomance of MechaCar with the competitors in terms of the key elemnts. Based on the outcomes, we can apply or reject designe modifications.
 
